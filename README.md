@@ -11,7 +11,7 @@ A multi-mode embedded system designed and implemented using the MSP430 MCU. The 
   A robust FSM controls transitions between 10 operating modes, including Sleep, Object Detector, Light Scanner, Telemeter, and file management.
 
 - **UART Communication**:  
-  Full-duplex serial communication (RS-232), with error checking and feedback for invalid inputs, ensuring reliability.
+  serial communication (RS-232), with error checking and feedback for invalid inputs, ensuring reliability.
 
 - **PC GUI Integration**:  
   Python-based graphical interface for visualization, calibration, and interaction with the MCU. Supports:

@@ -40,6 +40,12 @@ A multi-mode embedded system designed and implemented using the MSP430 MCU. The 
 ## MCU (MSP430G2553)
 ![MCU Pinout](MSP430g2553.png)
 
+## Sensors
+![FSM Diagram](Hardware.jpg)
+
+## Visualization
+![FSM Diagram](Visualization.jpg)
+
 ## FSM State Machine
 ![FSM Diagram](FSM.jpg)
 
